@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**muhammedsafuvan/muhammedsafuvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
 - 🔭 I’m currently working on Django
 - 👯 I’m looking to collaborate on mathematically related projects
 I'm fervent about mathematics.
@@ -24,3 +17,12 @@ I'm fervent about mathematics.
 ![](https://github-profile-trophy.vercel.app/?username=muhammedsafuvan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
+**muhammedsafuvan/muhammedsafuvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+
+

@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Django
-- 👯 I’m looking to collaborate on mathematically related projects
-I'm fervent about mathematics.
+- 🚀 Software Engineer | Passionate about tackling challenging problems and exploring cutting-edge technologies | Constantly brainstorming innovative solutions | Coding enthusiast on a mission to push boundaries and create impactful software | Let's collaborate and build the future together! 🌟
+  #Innovate #Code #Create 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-safuvan) 
 

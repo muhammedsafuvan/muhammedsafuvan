@@ -62,13 +62,8 @@ I believe in learning by building, questioning assumptions, and understanding ho
 **Workflow Orchestration Engine**
 > Designed a DAG-based workflow engine supporting parallel execution, conditional branching, retries, timeouts, and workflow persistence.
 
-**Real-time Anomaly Detection**
-> Explored streaming anomaly detection using Isolation Forest and Robust Random Cut Forest (RRCF).
-
-**Legal Technology & Automation**
-> Built backend features for contract automation, clickwrap agreements, and legal document workflows. Improved search report generation by 60% and reduced incoming support requests by 70%.
-
 ---
+
 
 
 
@@ -76,17 +71,17 @@ I believe in learning by building, questioning assumptions, and understanding ho
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/stats.svg"
+    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/stats.svg?v=2"
     height="180"
     alt="GitHub Statistics"
   />
-  &nbsp;&nbsp;
   <img
-    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/top-langs.svg"
+    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/top-langs.svg?v=2"
     height="180"
     alt="Most Used Languages"
   />
 </p>
+
 
 
 

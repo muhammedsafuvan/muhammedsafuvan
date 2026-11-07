@@ -71,11 +71,6 @@ I believe in learning by building, questioning assumptions, and understanding ho
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/stats.svg?v=2"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
     src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/top-langs.svg?v=2"
     height="180"
     alt="Most Used Languages"

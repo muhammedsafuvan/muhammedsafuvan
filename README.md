@@ -67,15 +67,31 @@ I believe in learning by building, questioning assumptions, and understanding ho
 
 
 
-## 📊 GitHub Statistics
+---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/top-langs.svg?v=2"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
+### 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=muhammedsafuvan&theme=default&hide_border=true&background=FFFFFF&stroke=E6D9FF&ring=9B72CF&fire=B58AE8&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=9CA3AF&timezone=Asia%2FKolkata"
+        width="100%"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://raw.githubusercontent.com/muhammedsafuvan/muhammedsafuvan/main/profile/top-langs.svg?v=2"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
+---
 
 
 

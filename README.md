@@ -1,7 +1,5 @@
 # Hey, I'm Muhammed Safuvan 👋
 
-### Software Engineer · Backend Systems · Product Engineering
-
 I enjoy turning complex problems into simple, reliable software.
 
 I'm a software engineer from India with **close to 4 years of experience** building backend systems, cloud-native applications, and developer-focused products.

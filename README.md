@@ -2,7 +2,7 @@
 
 I enjoy turning complex problems into simple, reliable software.
 
-I'm a software engineer from India with **close to 4 years of experience** building backend systems, cloud-native applications, and developer-focused products.
+I'm a software engineer from India with **4 years of experience** building backend systems, cloud-native applications, and developer-focused products.
 
 I believe in learning by building, questioning assumptions, and understanding how things work under the hood.
 
